@@ -48,6 +48,9 @@ legend {
 	height:35px;
 	float:left;
 }
+#img-rodape {
+	border-radius:0.25rem;
+}
 
 @media (max-width:792px) {
 	#rodape {
